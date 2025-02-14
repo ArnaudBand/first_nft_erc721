@@ -1,0 +1,20 @@
+{
+  "description": "Ethereal Guardian is a mystical NFT series representing cosmic warriors that protect the realms of the metaverse. Each guardian is infused with ancient energy, wielding legendary power that evolves over time. Only the chosen ones can harness their strength.",
+  "external_url": "",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeieuutpt64d55hojleqnj4fzxcq22ep3vrv7tug3ftdlznmbd4jeam",
+  "name": "Ethereal Guardian",
+  "attributes" :[
+    {
+      "trait_type": "Class",
+      "value": "Celestial Knight"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Plasma Shield"
+    }
+  ]
+}
